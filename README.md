@@ -374,10 +374,4 @@ Rather than building a generic chatbot, the workflow uses **defined agent behavi
 
 ---
 
-<p align="center">
 
-### ⭐ If this project helped you, consider starring the repository!
-
-**Built with 🤖 AI + ⚙️ n8n + 💡 Startup Thinking**
-
-</p>
